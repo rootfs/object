@@ -1,0 +1,6 @@
+[submodule "nfs-ganesha"]
+	path = nfs-ganesha
+	url = https://github.com/nfs-ganesha/nfs-ganesha
+[submodule "s3fs-fuse"]
+	path = s3fs-fuse
+	url = https://github.com/s3fs-fuse/s3fs-fuse
