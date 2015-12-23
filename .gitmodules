@@ -4,3 +4,6 @@
 [submodule "s3fs-fuse"]
 	path = s3fs-fuse
 	url = https://github.com/s3fs-fuse/s3fs-fuse
+[submodule "s3backer"]
+	path = s3backer
+	url = https://github.com/archiecobbs/s3backer
